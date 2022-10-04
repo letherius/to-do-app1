@@ -1,0 +1,11 @@
+.taskList1{
+   font-size: 30px;
+   text-transform: uppercase; 
+   color: rgb(0, 153, 255);
+   cursor: pointer;
+   border-bottom-style:solid;
+   border-color: #ffcc00;
+   margin-right: 40%;
+   margin-left: 47%;
+   }
+   
